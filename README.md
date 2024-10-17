@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saksham Kediyal</h1>
-<h3 align="center">My passion lies in full stack web development and computer science. MERN stack, TypeScript, SQL, and front-end technologies such as HTML/CSS/JS are things I work with. Excited by the possibility of building interactivity within 3D experiences with Three.js and Blender.</h3>
+<h3 align="center">My passion lies in full stack web development  AI/ML and computer science. MERN stack, TypeScript, SQL, and front-end technologies such as HTML/CSS/JS are things I work with. Excited by the possibility of building interactivity within 3D experiences with Three.js and Blender.</h3>
 
 - 🌱 I’m currently learning **PyTorch**
 
